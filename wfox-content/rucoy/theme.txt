@@ -1,0 +1,4 @@
+﻿Nome do tema: RUCOY
+Descrição: Blog modelo construído para RUCOY ONLINE por @pedro_quezado.
+Autor: Pedro Quezado
+Versão: 1.0

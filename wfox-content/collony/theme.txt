@@ -1,0 +1,4 @@
+Nome do tema: Collony
+Descrição: Blog modelo construído para WFOX por @pedro_quezado.
+Autor: Pedro Quezado
+Versão: V1.0

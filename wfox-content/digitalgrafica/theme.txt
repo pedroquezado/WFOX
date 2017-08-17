@@ -1,0 +1,4 @@
+﻿Nome do tema: Digital Gráfica
+Descrição: Blog modelo construído para Digital Gráfica por @pedro_quezado.
+Autor: Pedro Quezado
+Versão: 1.0

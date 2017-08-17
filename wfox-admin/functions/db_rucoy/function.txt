@@ -1,0 +1,3 @@
+Nome da Função: DB - Rucoy Online
+Descrição: Controlhe de dados
+Autor: Pedro Quezado

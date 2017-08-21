@@ -18,7 +18,7 @@
 	define('WFOX_SITE_ADM', WFOX_SITE_URL . '/wfox-admin');
 	define('WFOX_SITE_CONTENT', WFOX_SITE_URL . '/wfox-content');
 	define('WFOX_SITE_FUNCTIONS', WFOX_SITE_ADM . '/functions');
-	define('WFOX_SITE_THEME', WFOX_SITE_DIR . '/digitalgrafica');
+	define('WFOX_SITE_THEME', WFOX_SITE_DIR . '/collony');
 	
 	define('WFOX_SITE_NAME', '');
 	define('WFOX_SITE_RESUMO', '');

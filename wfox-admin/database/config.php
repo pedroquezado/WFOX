@@ -1,6 +1,6 @@
 <?php
 
-define('DBNAME', '');
-define('DBUSER', '');
-define('DBPASS', '');
-define('DBHOST', '');
+define('DBNAME', '.');
+define('DBUSER', '.');
+define('DBPASS', '.');
+define('DBHOST', '.');

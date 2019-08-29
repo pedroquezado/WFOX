@@ -261,7 +261,7 @@
 		return WFOX_SITE_URL . '/' . strtolower($link);
 	}
 
-	function page_active( $page ) {
+	function page_active( $page = '' ) {
 		$view = _get('view');
 
 		$pageActive = '';
